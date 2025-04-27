@@ -45,9 +45,3 @@ This document provides a clear contrast between different smart contract develop
 ## Conclusion
 
 Both Hardhat and Foundry offer robust local environments for smart contract development, with Foundry excelling in speed and built-in testing features, while Hardhat provides a mature plugin ecosystem and JavaScript familiarity. Similarly, choosing between a local IDE and Remix depends on project complexity: IDEs are better suited for large-scale, integrated development workflows, whereas Remix shines for quick prototypes and learning.
-
----
-
-*To publish this document, create a new GitHub repository (e.g., `smart-contract-env-comparison`) under your account and add this `README.md` to the root. Once pushed, your repo will be accessible at:*  
-https://github.com/MauriceOmbewa/smart-contract-development-environment-comparison
-
